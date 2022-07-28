@@ -22,7 +22,7 @@ function setup() {
 }
 
 function modelLoaded() {
-	console.log('PoseNet Is Initialized');
+	console.log('PoseNet está inicializado');
   }
 
   function gotPoses(results)
